@@ -1,0 +1,17 @@
+{
+  "name": "mi",
+  "homepage": "https://github.com/pmanterys/mi",
+  "authors": [
+    "Patryk Manterys <patryk.manterys@makingwaves.pl>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
